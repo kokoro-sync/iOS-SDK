@@ -37,6 +37,8 @@ Merge the following info.plist configuration items into your game project's info
 </dict>
 <key>ServerDomain</key>
 <string>https://sdk.quebec555.vip/api</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>是否允许此APP访问您的相册？</string>
 ```
 
 

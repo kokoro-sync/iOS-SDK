@@ -37,6 +37,8 @@ build settingを開き、Other Linker Flagsを設定し、`-ObjC`を追加しま
 </dict>
 <key>ServerDomain</key>
 <string>https://sdk.quebec555.vip/api</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>是否允许此APP访问您的相册？</string>
 ```
 
 
